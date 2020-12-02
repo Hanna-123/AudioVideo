@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioVideo</string>
+    <string name="cancion1">AudioVideo</string>
+    <string name="cancion2">AudioVideo</string>
+    <string name="cancion3">AudioVideo</string>
+    <string name="cancion4">AudioVideo</string>
+    <string name="video1">Video</string>
+</resources>
