@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">AudioVideo</string>
-    <string name="cancion1">AudioVideo</string>
-    <string name="cancion2">AudioVideo</string>
-    <string name="cancion3">AudioVideo</string>
-    <string name="cancion4">AudioVideo</string>
-    <string name="video1">Video</string>
+    <string name="cancion1">adele_hello</string>
+    <string name="cancion2">ahhh</string>
+    <string name="cancion3">aplauso</string>
+    <string name="cancion4">you_got_it</string>
+    <string name="video1">this_is_love</string>
 </resources>
