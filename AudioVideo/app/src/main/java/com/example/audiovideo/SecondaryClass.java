@@ -41,6 +41,7 @@ public class SecondaryClass extends Activity {
             vvw.setMediaController(mcr);
             vvw.setVideoURI(uri);
             vvw.start();
+
         }
 
     }
